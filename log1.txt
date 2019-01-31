@@ -1,0 +1,36 @@
+* [33mcommit 2225f1e757de2455d92d6c1d2641ea0b1cfc289c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: rosor_peng <rosor@163.com>
+[31m|[m Date:   Thu Jan 31 22:57:05 2019 +0800
+[31m|[m 
+[31m|[m     Update a file Readme.md
+[31m|[m   
+*   [33mcommit 427fc4e474691b255745da0d0c527431f95a2980[m[33m ([m[1;33mtag: newlist[m[33m)[m
+[32m|[m[33m\[m  Merge: 9e15d80 399e49f
+[32m|[m [33m|[m Author: rosor_peng <rosor@163.com>
+[32m|[m [33m|[m Date:   Thu Jan 31 16:07:09 2019 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge from rosor
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 399e49f59c4f6dfd69477014e612f5543fd4a2ce[m[33m ([m[1;32mrosor[m[33m)[m
+[32m|[m [33m|[m Author: rosor_peng <rosor@163.com>
+[32m|[m [33m|[m Date:   Thu Jan 31 15:41:41 2019 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Some workd
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 9e15d80bce4c2817e33726c0b7cfbf8af68458a3[m
+[33m|[m[33m/[m  Author: rosor_peng <rosor@163.com>
+[33m|[m   Date:   Thu Jan 31 15:43:04 2019 +0800
+[33m|[m   
+[33m|[m       Some fun
+[33m|[m 
+* [33mcommit 4dffb0446ef9f8d689285a56edb541fd4d8cd1c4[m
+[33m|[m Author: rosor_peng <rosor@163.com>
+[33m|[m Date:   Thu Jan 31 15:34:39 2019 +0800
+[33m|[m 
+[33m|[m     new day for git
+[33m|[m 
+* [33mcommit 62f2be8fb9868d62ea9daddb387edf662fa10ff3[m
+  Author: rosor_peng <rosor@163.com>
+  Date:   Thu Jan 31 15:32:28 2019 +0800
+  
+      Initial commit of git tutor reposistory
