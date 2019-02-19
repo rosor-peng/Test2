@@ -1,0 +1,48 @@
+[33mcommit de30e782d48b83cf156228b26664642992749be3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: rosor <rosor@163.com>
+Date:   Mon Feb 4 16:08:17 2019 +0800
+
+    add newfile gitee.txt
+
+[33mcommit c9e7c325121cc0dbb8cbc3d088bd3a3f285d4fc7[m
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 23:10:21 2019 +0800
+
+    备注信息:增加HTML文件了
+
+[33mcommit 2225f1e757de2455d92d6c1d2641ea0b1cfc289c[m
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 22:57:05 2019 +0800
+
+    Update a file Readme.md
+
+[33mcommit 427fc4e474691b255745da0d0c527431f95a2980[m[33m ([m[1;33mtag: newlist[m[33m)[m
+Merge: 9e15d80 399e49f
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 16:07:09 2019 +0800
+
+    Merge from rosor
+
+[33mcommit 9e15d80bce4c2817e33726c0b7cfbf8af68458a3[m
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 15:43:04 2019 +0800
+
+    Some fun
+
+[33mcommit 399e49f59c4f6dfd69477014e612f5543fd4a2ce[m[33m ([m[1;31morigin/rosor[m[33m, [m[1;32mrosor[m[33m)[m
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 15:41:41 2019 +0800
+
+    Some workd
+
+[33mcommit 4dffb0446ef9f8d689285a56edb541fd4d8cd1c4[m
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 15:34:39 2019 +0800
+
+    new day for git
+
+[33mcommit 62f2be8fb9868d62ea9daddb387edf662fa10ff3[m
+Author: rosor_peng <rosor@163.com>
+Date:   Thu Jan 31 15:32:28 2019 +0800
+
+    Initial commit of git tutor reposistory
